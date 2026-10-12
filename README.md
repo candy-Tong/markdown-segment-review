@@ -4,4 +4,4 @@
 
 发布前审查不在这里，也不调用这里的做法。
 
-命令行和 skill 还没有实现。规格发布在这个仓库的 GitHub issue 里。
+命令行和 skill 还没有实现。规格在 [#1 分段审查任何 Markdown](https://github.com/candy-Tong/markdown-segment-review/issues/1)。
